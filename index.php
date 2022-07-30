@@ -28,7 +28,7 @@ function loginForm(){
     <p></p>
 
     <form action="index.php" method="post">
-      <label for="name">Hajur Ko Naam:</label>
+      <label for="name">Your name:</label>
       <input type="text" name="name" id="name" />
       <input type="submit" name="enter" id="enter" value="Enter" />
     </form>
