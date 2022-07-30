@@ -44,7 +44,7 @@ function loginForm(){
 <html lang="en">
     <head>
         <meta charset="utf-8" />
- 
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <title>Hamro Guf</title>
         <meta name="description" content="Tuts+ Chat Application" />
         <link rel="stylesheet" href="style.css" />
