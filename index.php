@@ -32,6 +32,9 @@ function loginForm(){
       <input type="text" name="name" id="name" />
       <input type="submit" name="enter" id="enter" value="Enter" />
     </form>
+  </div>
+   <div class="footer">
+  <h2>Copy right with Subash!!!</h2>
   </div>';
 }
  
