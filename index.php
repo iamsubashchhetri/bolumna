@@ -74,7 +74,7 @@ function loginForm(){
             </form>
         </div>
         <div class="footer">
-        <h2>Copy right with Spyro!!!</h2>
+        <h2>Copy right with Subash!!!</h2>
         </div>
             
         
